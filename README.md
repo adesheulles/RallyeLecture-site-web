@@ -2,7 +2,7 @@
 
 Site web du rallye lecture pour les élèves.
 
-Le projet regroupe 2 grandes parties :
+Le projet regroupe 3 grandes parties :
 
 * Connection des élèves au site.
 * Ajout de livre à la base de données.

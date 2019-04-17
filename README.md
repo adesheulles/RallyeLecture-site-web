@@ -26,34 +26,32 @@ Tout d'abord nous avons créée la base de données pour accueillir et traiter c
 
 ![Capture.png](https://github.com/adesheulles/RallyeLecture-site-web/blob/master/BddRallyeLecture.PNG)
 
-Base de données Aauth :
+# Base de données Aauth :
  
 ![Capture.png](https://github.com/adesheulles/RallyeLecture-site-web/blob/master/DB_Schema_Aauth.PNG)
 
-Le site se présente ainsi pour les visiteurs :
+# Le site se présente ainsi pour les visiteurs :
 
 
 ![Capture.png](https://github.com/adesheulles/RallyeLecture-site-web/blob/master/rlHomeVisiteur.png)
 
 
-Pour l'administrateur :
+# Pour l'administrateur :
 
 
 ![capture.png](https://github.com/adesheulles/RallyeLecture-site-web/blob/master/rlLogin.png)
 
 ![capture.png](https://github.com/adesheulles/RallyeLecture-site-web/blob/master/rlHomeAdmin.png)
 
-Inscription :
+# Inscription :
 
 ![capture.png](https://github.com/adesheulles/RallyeLecture-site-web/blob/master/Inscription.png)
 
-Ajout d'un livre :
+# Ajout d'un livre :
 
 ![capture.png](https://github.com/adesheulles/RallyeLecture-site-web/blob/master/LivreCr%C3%A9ation.png)
 
-Pagination et upload d'un nouveau livre :
-
-
+# Pagination et upload d'un nouveau livre :
 
 ![capture.png](https://github.com/adesheulles/RallyeLecture-site-web/blob/master/PaginationApresCr%C3%A9ationLivre.PNG)
 

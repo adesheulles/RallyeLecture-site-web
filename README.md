@@ -22,7 +22,7 @@ Les outils mis en oeuvre :
 * Html5
 * Git
 
-Tout d'abord nous avons créée la base de données pour accueillir et traiter ces informations :
+Tout d'abord,nous avons créé la base de données pour accueillir et traiter ces informations :
 
 ![Capture.png](https://github.com/adesheulles/RallyeLecture-site-web/blob/master/BddRallyeLecture.PNG)
 
